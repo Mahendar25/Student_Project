@@ -37,7 +37,4 @@ public class Student1_Details {
 	public void setMobile(String mobile) {
 		Mobile = mobile;
 	}
-	
-	
-
 }
